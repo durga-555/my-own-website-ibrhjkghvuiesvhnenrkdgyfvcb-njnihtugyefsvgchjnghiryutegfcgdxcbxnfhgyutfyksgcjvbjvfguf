@@ -1,0 +1,65 @@
+h1{
+    color: rgb(255, 255, 255);
+ }
+ /**{
+     border: solid;
+ }*/
+ .header{
+     background-image: url(background.jpg);
+     background-repeat: no-repeat;
+     background-size:cover;
+     font-family: cursive;
+     font-size: 20px;
+ }
+ .origami{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-family:cursive;
+ }
+ .item1{
+     background-image: url(frogsbackground.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     color: white;
+     font-size: 40px;
+ }
+ .item2{
+    background-image: url(ratsbackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 40px;
+ }
+ .item3{
+    background-image: url(batsbackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 30px;
+ }
+ .item4{
+    background-image: url(fishbackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 40px; 
+ }
+ .item5{
+    background-image: url(pandabackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 30px; 
+ }
+ .footer{
+    background-image: url(background.jpg);
+     background-repeat: no-repeat;
+     background-size:cover;
+     font-family:cursive;
+     font-size: 20px;  
+     color: white;
+ }
+ body{
+     background-color: black;
+ }
